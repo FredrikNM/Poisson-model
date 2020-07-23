@@ -2,7 +2,7 @@
 An rather old and naive approach for predictions of soccer results. Poisson is a probabily distribution used for counting
 
 Here we consider goals scored by each team as independent events, which of course it is not. To make a better model we have to consider a 
-teams ability to take control of the game early and score the first goal. Then we have to evaluate the opponents team ability to bounce back/
+teams ability to take control of the game early and score the first goal. Then we have to evaluate the opponent team ability to bounce back/
 the ability of the team leading to hold on to the lead. ect.
 
 Also added a part to the pymc3 distribution family file to check how easy it was to do, since some people say a Weibull distribution is
