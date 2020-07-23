@@ -1,5 +1,5 @@
 # Poisson-model
-An rather old and naive approach for predictions of soccer results.
+An rather old and naive approach for predictions of soccer results. Poisson is a probabily distribution used for counting
 
 Here we consider goals scored by each team as independent events, which of course it is not. To make a better model we have to consider a 
 teams ability to take control of the game early and score the first goal. Then we have to evaluate the opponents team ability to bounce back/
