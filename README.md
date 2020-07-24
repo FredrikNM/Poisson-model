@@ -24,3 +24,5 @@ class DiscreteWeibull(Family):
               'beta': pm_dists.HalfCauchy.dist(beta=1/10, testval=1.)}
 
 ```
+  
+Heads up, after seeing the summary, it seems like the q in discreteweibull should be reparameterize
