@@ -6,7 +6,7 @@ teams ability to take control of the game early and score the first goal. Then w
 the ability of the team leading to hold on to the lead. ect.
 
 Also added a part to the pymc3 distribution family file to check how easy it was to do, since some people say a Weibull distribution is
-more appropriate to use in this case. (For me it was in anaconda\(env\myenv\)Lib\site-packages\pymc3\glm\families.py)
+more appropriate to use in this case. (For me it was in anaconda\\(env\myenv\\)Lib\site-packages\pymc3\glm\families.py)
 
 ```
 # CHANGE THIS 
